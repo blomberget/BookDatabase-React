@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "title": "Circe",
+        "author": "Medleine Miller",
+        "genre": "Fantasy",
+        "progress": "Reading",
+        "rating": "4"
+    },
+    {
+        "id": 2,
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "genre": "Sciende Fiction",
+        "progress": "Want to read",
+        "rating": "-"
+    },
+    {
+        "id": 3,
+        "title": "The Four Winds",
+        "author": "Kristin Hannah",
+        "genre": "Historical",
+        "progress": "Want to read",
+        "rating": "-"
+    },
+    {
+        "id": 4,
+        "title": "Red, White & Royal Blue",
+        "author": "Casey McQuiston",
+        "genre": "Romance",
+        "progress": "Read",
+        "rating": "3"
+    }
+]

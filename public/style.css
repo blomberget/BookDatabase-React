@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('http://fonts.cdnfonts.com/css/floane');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+
+/* font-family: 'Abril Fatface', cursive; 
+font-family: 'Floane', sans-serif;
+font-family: 'Raleway', sans-serif;*/
+
+body {
+    background: #FCF7E9;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Abril Fatface', cursive;
+    font-weight: 100;
+    text-align: center;
+    color: #776674;
+    font-size: 6rem;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+  }
+
+th {
+    font-family: 'Floane', sans-serif;
+    font-size: 1.4rem;
+    padding-left: 2rem;    padding-right: 2rem;
+    text-align: center;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+td {
+    padding-left: 1.5rem;padding-right: 1.5rem;
+    text-align: center;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+tr {
+    border: 1px solid rgba(142, 166, 166, 0.6);
+    border-width: 1px 0px;
+}
+
+
+
+
+thead:first-child tr{
+    border: none;
+  }
+
+  button, input[type="submit"], input[type="reset"] {
+	background: none;
+	color: inherit;
+	border: none;
+	padding: 0;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+    margin-left: 1rem;
+}
+
+
+input  {
+    margin-left: .5rem;
+    margin-right: .5rem;
+    margin-bottom: 1rem;
+    padding: .3rem;
+
+    font-size: 1rem;
+    font-family: inherit;
+}
+
+select {
+    margin-left: .5rem;
+    margin-right: .5rem;
+    margin-bottom: 1rem;
+    padding: .3rem;
+
+    
+    font-size: 1rem;
+    font-family: inherit;
+}
